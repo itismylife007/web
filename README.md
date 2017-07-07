@@ -1,1 +1,1 @@
-## 这是一个神奇的网页
+https://jsonspade9.github.io/web/
